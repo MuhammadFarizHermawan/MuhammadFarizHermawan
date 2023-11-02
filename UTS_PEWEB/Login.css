@@ -1,0 +1,33 @@
+.bacground{
+    width: 100vw;
+    height: 100vh;
+
+}
+.w-40{
+    width: 40%;
+}
+.img-size{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.btn-btn-primary-mb-3{
+    background-color: #753677;
+    color: white;
+    padding: 0px 50px;
+
+}
+a{
+    color: white;
+}
+
+.img-hover :hover{
+    color: antiquewhite;
+}
+.fa-brands{
+    margin-right: 5px;
+
+}
